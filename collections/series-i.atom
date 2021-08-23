@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://toplcup.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://toplcup.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://toplcup.com/collections/series-i.atom"/>
+  <title>TOPLCUP</title>
+  <updated>2021-06-09T10:23:02+01:00</updated>
+  <author>
+    <name>TOPLCUP</name>
+  </author>
+  <entry>
+    <id>https://toplcup.com/products/6736871653540</id>
+    <published>2021-06-09T10:23:02+01:00</published>
+    <updated>2021-06-09T10:23:02+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://toplcup.com/products/short-8oz-1"/>
+    <title>Short 8oz</title>
+    <s:type>8oz</s:type>
+    <s:vendor>TOPLCUP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0057/3430/1796/products/LTLCRLTOPL_307f38c7-cfb8-40c8-a80b-c5df28011be3.png?v=1627470136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TOPLCUP<br>
+        <strong>Type: </strong>8oz<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Short description -->
+<p><b>Specifications</b></p>
+<ul>
+<li>Barista standard sizing: 8oz / 236ml</li>
+<li>Base width: 59mm</li>
+<li>Lid height: 21mm</li>
+<li>Overall height (with lid): 131mm</li>
+</ul>
+<p><meta charset="utf-8"><span>Want to make it personal? </span><a title="Personalised TOPLCUP" href="https://toplcup.com/products/personalised-toplcup" data-mce-href="https://toplcup.com/products/personalised-toplcup">Have a try here</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>8oz</s:tag>
+    <s:tag>Hot Coral</s:tag>
+    <s:tag>Jet Black</s:tag>
+    <s:tag>Off White</s:tag>
+    <s:tag>Stone Grey</s:tag>
+    <s:tag>Teal Green</s:tag>
+    <s:variant>
+      <id>https://toplcup.com/products/6736871653540</id>
+      <title>Hot Coral</title>
+      <s:price currency="GBP">27.99</s:price>
+      <s:sku>TPL8HC</s:sku>
+      <s:grams>240</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toplcup.com/products/6736871653540</id>
+      <title>Jet Black</title>
+      <s:price currency="GBP">27.99</s:price>
+      <s:sku>TPL8JB</s:sku>
+      <s:grams>240</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toplcup.com/products/6736871653540</id>
+      <title>Off White</title>
+      <s:price currency="GBP">27.99</s:price>
+      <s:sku>TPL8OW</s:sku>
+      <s:grams>240</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toplcup.com/products/6736871653540</id>
+      <title>Stone Grey</title>
+      <s:price currency="GBP">27.99</s:price>
+      <s:sku>TPL8SG</s:sku>
+      <s:grams>240</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toplcup.com/products/6736871653540</id>
+      <title>Teal Green</title>
+      <s:price currency="GBP">27.99</s:price>
+      <s:sku>TPL8TG</s:sku>
+      <s:grams>240</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://toplcup.com/products/6736870801572</id>
+    <published>2021-06-09T10:21:08+01:00</published>
+    <updated>2021-06-09T10:21:08+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://toplcup.com/products/regular-12oz-1"/>
+    <title>Regular 12oz</title>
+    <s:type>12oz</s:type>
+    <s:vendor>TOPLCUP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0057/3430/1796/products/BIGCRLTOPL_baef017a-cad6-4003-b0c9-db750c6fac28.png?v=1627470165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TOPLCUP<br>
+        <strong>Type: </strong>12oz<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Short description -->
+<p><b>Specifications</b><br></p>
+<ul>
+<li>Barista standard sizing: 12oz / 354ml</li>
+<li>Base width: 59mm</li>
+<li>Lid height: 21mm</li>
+<li>Overall height (with lid): 151mm</li>
+</ul>
+<p><meta charset="utf-8">Want to make it personal? <a href="https://toplcup.com/products/personalised-toplcup" title="Personalised TOPLCUP">Have a try here</a>.</p>
+<!-- Drop down #3 -->
+<h3><b></b></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12oz</s:tag>
+    <s:tag>Hot Coral</s:tag>
+    <s:tag>Jet Black</s:tag>
+    <s:tag>Off White</s:tag>
+    <s:tag>Stone Grey</s:tag>
+    <s:tag>Teal Green</s:tag>
+    <s:variant>
+      <id>https://toplcup.com/products/6736870801572</id>
+      <title>Hot Coral</title>
+      <s:price currency="GBP">29.99</s:price>
+      <s:sku>TPL12HC</s:sku>
+      <s:grams>260</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toplcup.com/products/6736870801572</id>
+      <title>Jet Black</title>
+      <s:price currency="GBP">29.99</s:price>
+      <s:sku>TPL12JB</s:sku>
+      <s:grams>260</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toplcup.com/products/6736870801572</id>
+      <title>Off White</title>
+      <s:price currency="GBP">29.99</s:price>
+      <s:sku>TPL12OW</s:sku>
+      <s:grams>260</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toplcup.com/products/6736870801572</id>
+      <title>Stone Grey</title>
+      <s:price currency="GBP">29.99</s:price>
+      <s:sku>TPL12SG</s:sku>
+      <s:grams>260</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toplcup.com/products/6736870801572</id>
+      <title>Teal Green</title>
+      <s:price currency="GBP">29.99</s:price>
+      <s:sku>TPL12TG</s:sku>
+      <s:grams>260</s:grams>
+    </s:variant>
+  </entry>
+</feed>
